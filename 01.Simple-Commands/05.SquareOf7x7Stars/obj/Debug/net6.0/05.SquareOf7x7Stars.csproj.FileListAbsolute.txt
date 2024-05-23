@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\bin\Debug\net6.0\05.SquareOf7x7Stars.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\bin\Debug\net6.0\05.SquareOf7x7Stars.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\bin\Debug\net6.0\05.SquareOf7x7Stars.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\bin\Debug\net6.0\05.SquareOf7x7Stars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\bin\Debug\net6.0\05.SquareOf7x7Stars.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\refint\05.SquareOf7x7Stars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\05.SquareOf7x7Stars.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\05.SquareOf7x7Stars\obj\Debug\net6.0\ref\05.SquareOf7x7Stars.dll

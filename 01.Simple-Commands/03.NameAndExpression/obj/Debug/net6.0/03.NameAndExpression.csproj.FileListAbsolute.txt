@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\bin\Debug\net6.0\03.NameAndExpression.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\bin\Debug\net6.0\03.NameAndExpression.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\bin\Debug\net6.0\03.NameAndExpression.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\bin\Debug\net6.0\03.NameAndExpression.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\bin\Debug\net6.0\03.NameAndExpression.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\refint\03.NameAndExpression.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\03.NameAndExpression.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\01.Simple-Commands\03.NameAndExpression\obj\Debug\net6.0\ref\03.NameAndExpression.dll
