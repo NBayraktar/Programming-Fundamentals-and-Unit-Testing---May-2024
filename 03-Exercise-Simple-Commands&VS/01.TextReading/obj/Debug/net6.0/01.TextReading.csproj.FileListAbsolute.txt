@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\bin\Debug\net6.0\01.TextReading.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\bin\Debug\net6.0\01.TextReading.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\bin\Debug\net6.0\01.TextReading.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\bin\Debug\net6.0\01.TextReading.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\bin\Debug\net6.0\01.TextReading.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\refint\01.TextReading.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\01.TextReading.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\01.TextReading\obj\Debug\net6.0\ref\01.TextReading.dll

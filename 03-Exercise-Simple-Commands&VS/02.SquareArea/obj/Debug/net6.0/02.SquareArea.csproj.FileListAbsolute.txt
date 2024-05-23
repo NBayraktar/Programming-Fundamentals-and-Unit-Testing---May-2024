@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\bin\Debug\net6.0\02.SquareArea.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\bin\Debug\net6.0\02.SquareArea.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\bin\Debug\net6.0\02.SquareArea.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\bin\Debug\net6.0\02.SquareArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\bin\Debug\net6.0\02.SquareArea.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\refint\02.SquareArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\02.SquareArea.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\02.SquareArea\obj\Debug\net6.0\ref\02.SquareArea.dll
