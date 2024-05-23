@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\bin\Debug\net6.0\03.CustomerInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\refint\03.CustomerInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\03.CustomerInfo.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\03.CustomerInfo\obj\Debug\net6.0\ref\03.CustomerInfo.dll

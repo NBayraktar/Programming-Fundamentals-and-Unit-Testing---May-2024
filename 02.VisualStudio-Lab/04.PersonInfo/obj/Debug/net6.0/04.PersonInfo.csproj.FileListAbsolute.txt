@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\bin\Debug\net6.0\04.PersonInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\refint\04.PersonInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\04.PersonInfo.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\04.PersonInfo\obj\Debug\net6.0\ref\04.PersonInfo.dll

@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\bin\Debug\net6.0\05.TownInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\refint\05.TownInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\05.TownInfo.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\05.TownInfo\obj\Debug\net6.0\ref\05.TownInfo.dll

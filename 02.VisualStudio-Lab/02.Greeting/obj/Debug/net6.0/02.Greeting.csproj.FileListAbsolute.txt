@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\refint\02.Greeting.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\02.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\ref\02.Greeting.dll
