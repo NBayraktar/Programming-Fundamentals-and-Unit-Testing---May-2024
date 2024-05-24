@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\refint\02.CalculateSpeed.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\04.Lab-DataTypesAndVariables\02.CalculateSpeed\obj\Debug\net6.0\ref\02.CalculateSpeed.dll
