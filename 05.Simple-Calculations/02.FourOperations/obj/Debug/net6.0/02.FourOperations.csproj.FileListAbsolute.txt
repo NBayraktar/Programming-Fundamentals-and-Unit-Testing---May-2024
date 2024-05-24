@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\bin\Debug\net6.0\02.FourOperations.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\refint\02.FourOperations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\02.FourOperations.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\02.FourOperations\obj\Debug\net6.0\ref\02.FourOperations.dll
