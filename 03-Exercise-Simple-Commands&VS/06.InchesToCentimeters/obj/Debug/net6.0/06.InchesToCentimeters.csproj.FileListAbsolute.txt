@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\bin\Debug\net6.0\06.InchesToCentimeters.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\bin\Debug\net6.0\06.InchesToCentimeters.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\bin\Debug\net6.0\06.InchesToCentimeters.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\bin\Debug\net6.0\06.InchesToCentimeters.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\bin\Debug\net6.0\06.InchesToCentimeters.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\refint\06.InchesToCentimeters.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\06.InchesToCentimeters.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\03-Exercise-Simple-Commands&VS\06.InchesToCentimeters\obj\Debug\net6.0\ref\06.InchesToCentimeters.dll

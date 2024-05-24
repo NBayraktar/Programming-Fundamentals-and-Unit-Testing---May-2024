@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.TextReading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd2e6204cfd7089f2112f5c006dd049f0fbcf2dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad6c328bd598b7fb542d54b841ee84397424555")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.TextReading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.TextReading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
