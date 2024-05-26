@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\05.Simple-Calculations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEE8F8D5-399A-419C-9463-35716C7BB59B}|07.SuppliesForSchool\\07.SuppliesForSchool.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\05.simple-calculations\\07.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE8F8D5-399A-419C-9463-35716C7BB59B}|07.SuppliesForSchool\\07.SuppliesForSchool.csproj|solutionrelative:07.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D69742C8-C99D-42C0-BC92-DD83F543B80F}|06.MandatoryLiterature\\06.MandatoryLiterature.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\05.simple-calculations\\06.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D69742C8-C99D-42C0-BC92-DD83F543B80F}|06.MandatoryLiterature\\06.MandatoryLiterature.csproj|solutionrelative:06.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\05.Simple-Calculations\\07.SuppliesForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "07.SuppliesForSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\05.Simple-Calculations\\07.SuppliesForSchool\\Program.cs",
+              "RelativeToolTip": "07.SuppliesForSchool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:21:15.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\05.Simple-Calculations\\06.MandatoryLiterature\\Program.cs",
               "RelativeDocumentMoniker": "06.MandatoryLiterature\\Program.cs",

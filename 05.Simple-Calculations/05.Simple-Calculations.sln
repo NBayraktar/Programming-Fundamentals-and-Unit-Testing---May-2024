@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Tiles", "04.Tiles\04.Til
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DepositCalculator", "05.DepositCalculator\05.DepositCalculator.csproj", "{34F4F684-412D-44E4-A292-A30C4D359EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MandatoryLiterature", "06.MandatoryLiterature\06.MandatoryLiterature.csproj", "{D69742C8-C99D-42C0-BC92-DD83F543B80F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.MandatoryLiterature", "06.MandatoryLiterature\06.MandatoryLiterature.csproj", "{D69742C8-C99D-42C0-BC92-DD83F543B80F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SuppliesForSchool", "07.SuppliesForSchool\07.SuppliesForSchool.csproj", "{EEE8F8D5-399A-419C-9463-35716C7BB59B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D69742C8-C99D-42C0-BC92-DD83F543B80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69742C8-C99D-42C0-BC92-DD83F543B80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69742C8-C99D-42C0-BC92-DD83F543B80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE8F8D5-399A-419C-9463-35716C7BB59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE8F8D5-399A-419C-9463-35716C7BB59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE8F8D5-399A-419C-9463-35716C7BB59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE8F8D5-399A-419C-9463-35716C7BB59B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
