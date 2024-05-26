@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\bin\Debug\net6.0\06.MandatoryLiterature.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\refint\06.MandatoryLiterature.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\06.MandatoryLiterature.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\05.Simple-Calculations\06.MandatoryLiterature\obj\Debug\net6.0\ref\06.MandatoryLiterature.dll
