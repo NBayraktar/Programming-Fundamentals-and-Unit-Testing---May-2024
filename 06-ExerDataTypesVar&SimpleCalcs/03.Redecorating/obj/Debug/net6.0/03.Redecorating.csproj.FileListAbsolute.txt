@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\bin\Debug\net6.0\03.Redecorating.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\bin\Debug\net6.0\03.Redecorating.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\bin\Debug\net6.0\03.Redecorating.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\bin\Debug\net6.0\03.Redecorating.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\bin\Debug\net6.0\03.Redecorating.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\refint\03.Redecorating.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\03.Redecorating.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\03.Redecorating\obj\Debug\net6.0\ref\03.Redecorating.dll

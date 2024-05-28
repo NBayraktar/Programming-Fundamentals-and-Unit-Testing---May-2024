@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DBBA1263-1AC6-44B3-AA00-A0F542F3F380}|03.Redecorating\\03.Redecorating.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\06-exerdatatypesvar\u0026simplecalcs\\03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA1263-1AC6-44B3-AA00-A0F542F3F380}|03.Redecorating\\03.Redecorating.csproj|solutionrelative:03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AE9F6C3-C55C-495C-81D4-E74560241C95}|02.CenturiesToMinutes\\02.CenturiesToMinutes.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\06-exerdatatypesvar\u0026simplecalcs\\02.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE9F6C3-C55C-495C-81D4-E74560241C95}|02.CenturiesToMinutes\\02.CenturiesToMinutes.csproj|solutionrelative:02.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\03.Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03.Redecorating\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\03.Redecorating\\Program.cs",
+              "RelativeToolTip": "03.Redecorating\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:00:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\02.CenturiesToMinutes\\Program.cs",
               "RelativeDocumentMoniker": "02.CenturiesToMinutes\\Program.cs",
               "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\02.CenturiesToMinutes\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\06-ExerDataTypesVar\u0026SimpleCalcs\\01.ReversedNumbers\\Program.cs",
               "RelativeDocumentMoniker": "01.ReversedNumbers\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "01.ReversedNumbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:04:53.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T22:04:53.201Z"
             }
           ]
         }
