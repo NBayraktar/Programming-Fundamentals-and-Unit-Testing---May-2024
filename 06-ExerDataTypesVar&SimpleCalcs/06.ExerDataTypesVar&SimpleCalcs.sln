@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Redecorating", "03.Redec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FoodDelivery", "04.FoodDelivery\04.FoodDelivery.csproj", "{CAA116D0-5E30-4A5C-883C-D9C8ABAC6D89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BasketballEquipment", "05.BasketballEquipment\05.BasketballEquipment.csproj", "{F9034D3C-3147-468A-8B0C-C0C694EB115B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BasketballEquipment", "05.BasketballEquipment\05.BasketballEquipment.csproj", "{F9034D3C-3147-468A-8B0C-C0C694EB115B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Aquarium", "06.Aquarium\06.Aquarium.csproj", "{FAAED539-DE99-4980-9C38-55BF12748DE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F9034D3C-3147-468A-8B0C-C0C694EB115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9034D3C-3147-468A-8B0C-C0C694EB115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9034D3C-3147-468A-8B0C-C0C694EB115B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAED539-DE99-4980-9C38-55BF12748DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAED539-DE99-4980-9C38-55BF12748DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAED539-DE99-4980-9C38-55BF12748DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAED539-DE99-4980-9C38-55BF12748DE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
