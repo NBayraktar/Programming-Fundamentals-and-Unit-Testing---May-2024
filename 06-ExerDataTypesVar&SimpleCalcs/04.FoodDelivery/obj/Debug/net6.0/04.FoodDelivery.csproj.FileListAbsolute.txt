@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\refint\04.FoodDelivery.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\06-ExerDataTypesVar&SimpleCalcs\04.FoodDelivery\obj\Debug\net6.0\ref\04.FoodDelivery.dll
