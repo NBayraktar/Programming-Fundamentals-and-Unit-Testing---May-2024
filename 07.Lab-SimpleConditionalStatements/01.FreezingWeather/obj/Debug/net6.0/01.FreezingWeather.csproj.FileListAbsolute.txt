@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\bin\Debug\net6.0\01.FreezingWeather.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\refint\01.FreezingWeather.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\01.FreezingWeather.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\01.FreezingWeather\obj\Debug\net6.0\ref\01.FreezingWeather.dll
