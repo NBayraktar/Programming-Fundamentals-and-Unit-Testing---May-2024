@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D98E73-E525-4FD1-B7EE-75CAAC8A9A0E}|01.FreezingWeather\\01.FreezingWeather.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\07.lab-simpleconditionalstatements\\01.freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D98E73-E525-4FD1-B7EE-75CAAC8A9A0E}|01.FreezingWeather\\01.FreezingWeather.csproj|solutionrelative:01.freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\01.FreezingWeather\\Program.cs",
+              "RelativeDocumentMoniker": "01.FreezingWeather\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\01.FreezingWeather\\Program.cs",
+              "RelativeToolTip": "01.FreezingWeather\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:05:47.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
