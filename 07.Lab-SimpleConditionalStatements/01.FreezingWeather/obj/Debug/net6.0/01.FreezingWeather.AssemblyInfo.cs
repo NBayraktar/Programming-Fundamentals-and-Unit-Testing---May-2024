@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.FreezingWeather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a7b29b1add64c1b83f1056d6147282fef13b24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6838ae00801e3e92dfd6467b5704faef147c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.FreezingWeather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.FreezingWeather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

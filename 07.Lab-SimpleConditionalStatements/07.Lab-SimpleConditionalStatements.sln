@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FreezingWeather", "01.FreezingWeather\01.FreezingWeather.csproj", "{16D98E73-E525-4FD1-B7EE-75CAAC8A9A0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EvenOrOdd", "02.EvenOrOdd\02.EvenOrOdd.csproj", "{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenOrOdd", "02.EvenOrOdd\02.EvenOrOdd.csproj", "{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Nums1-9AsWords", "03.Nums1-9AsWords\03.Nums1-9AsWords.csproj", "{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
