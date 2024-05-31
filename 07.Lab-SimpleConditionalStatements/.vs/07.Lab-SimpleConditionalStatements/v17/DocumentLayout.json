@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4AAF4A0-94C8-4B5D-900E-24D2FA8CAB44}|06.BoilingWater\\06.BoilingWater.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\07.lab-simpleconditionalstatements\\06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AAF4A0-94C8-4B5D-900E-24D2FA8CAB44}|06.BoilingWater\\06.BoilingWater.csproj|solutionrelative:06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E40AD9-F201-4D46-8BDF-0F53B79F10B9}|09.AreaOfFigures\\09.AreaOfFigures.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\07.lab-simpleconditionalstatements\\09.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E40AD9-F201-4D46-8BDF-0F53B79F10B9}|09.AreaOfFigures\\09.AreaOfFigures.csproj|solutionrelative:09.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\06.BoilingWater\\Program.cs",
-              "RelativeDocumentMoniker": "06.BoilingWater\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\06.BoilingWater\\Program.cs",
-              "RelativeToolTip": "06.BoilingWater\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\09.AreaOfFigures\\Program.cs",
+              "RelativeDocumentMoniker": "09.AreaOfFigures\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\07.Lab-SimpleConditionalStatements\\09.AreaOfFigures\\Program.cs",
+              "RelativeToolTip": "09.AreaOfFigures\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T20:53:24.996Z",
+              "WhenOpened": "2024-05-31T21:17:54.253Z",
               "EditorCaption": ""
             }
           ]

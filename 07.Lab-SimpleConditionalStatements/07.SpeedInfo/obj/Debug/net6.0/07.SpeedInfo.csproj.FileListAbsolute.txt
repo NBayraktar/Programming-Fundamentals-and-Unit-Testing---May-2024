@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\refint\07.SpeedInfo.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\07.SpeedInfo\obj\Debug\net6.0\ref\07.SpeedInfo.dll

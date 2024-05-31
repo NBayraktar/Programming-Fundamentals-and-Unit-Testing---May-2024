@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\refint\09.AreaOfFigures.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\ref\09.AreaOfFigures.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05.GuessThePass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b795fb4d8e65aa1e2b6a02f3f11f326740919ccb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801f3c3c84892848b4964999eaa21aa2c52a2f46")]
 [assembly: System.Reflection.AssemblyProductAttribute("05.GuessThePass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05.GuessThePass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
