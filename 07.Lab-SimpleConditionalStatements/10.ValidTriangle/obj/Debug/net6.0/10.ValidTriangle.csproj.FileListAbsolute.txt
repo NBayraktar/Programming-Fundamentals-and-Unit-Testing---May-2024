@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\refint\10.ValidTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\10.ValidTriangle\obj\Debug\net6.0\ref\10.ValidTriangle.dll
