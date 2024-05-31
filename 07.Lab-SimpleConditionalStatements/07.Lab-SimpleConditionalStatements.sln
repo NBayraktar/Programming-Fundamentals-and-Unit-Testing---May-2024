@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenOrOdd", "02.EvenOrOd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Nums1-9AsWords", "03.Nums1-9AsWords\03.Nums1-9AsWords.csproj", "{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GreaterNumber", "04.GreaterNumber\04.GreaterNumber.csproj", "{2F1B4138-9991-4D33-85EF-FA3DDC218019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GreaterNumber", "04.GreaterNumber\04.GreaterNumber.csproj", "{2F1B4138-9991-4D33-85EF-FA3DDC218019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GuessThePass", "05.GuessThePass\05.GuessThePass.csproj", "{05155187-849A-483A-8C29-5A30F04146D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05155187-849A-483A-8C29-5A30F04146D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05155187-849A-483A-8C29-5A30F04146D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05155187-849A-483A-8C29-5A30F04146D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05155187-849A-483A-8C29-5A30F04146D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

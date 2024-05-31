@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\bin\Debug\net6.0\05.GuessThePass.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\bin\Debug\net6.0\05.GuessThePass.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\bin\Debug\net6.0\05.GuessThePass.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\bin\Debug\net6.0\05.GuessThePass.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\bin\Debug\net6.0\05.GuessThePass.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\refint\05.GuessThePass.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\05.GuessThePass.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\07.Lab-SimpleConditionalStatements\05.GuessThePass\obj\Debug\net6.0\ref\05.GuessThePass.dll
