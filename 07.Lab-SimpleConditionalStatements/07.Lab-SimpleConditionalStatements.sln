@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FreezingWeather", "01.Fr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenOrOdd", "02.EvenOrOdd\02.EvenOrOdd.csproj", "{40C1A83C-6D35-42B3-802F-FB364C1FD0DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Nums1-9AsWords", "03.Nums1-9AsWords\03.Nums1-9AsWords.csproj", "{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Nums1-9AsWords", "03.Nums1-9AsWords\03.Nums1-9AsWords.csproj", "{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GreaterNumber", "04.GreaterNumber\04.GreaterNumber.csproj", "{2F1B4138-9991-4D33-85EF-FA3DDC218019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D955AEE-EA85-43EF-9F54-8A77C7C9C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1B4138-9991-4D33-85EF-FA3DDC218019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
