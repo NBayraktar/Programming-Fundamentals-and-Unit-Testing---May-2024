@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TicketPrice", "08.Ticket
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.AreaOfFigures", "09.AreaOfFigures\09.AreaOfFigures.csproj", "{77E40AD9-F201-4D46-8BDF-0F53B79F10B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ValidTriangle", "10.ValidTriangle\10.ValidTriangle.csproj", "{B4B26D9B-CD3E-446E-B0D6-79C11B40FAE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ValidTriangle", "10.ValidTriangle\10.ValidTriangle.csproj", "{B4B26D9B-CD3E-446E-B0D6-79C11B40FAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CoffeeShop", "11.CoffeeShop\11.CoffeeShop.csproj", "{D475DF9C-3C8B-464A-A8F7-7BA4BD2CEACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{B4B26D9B-CD3E-446E-B0D6-79C11B40FAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B26D9B-CD3E-446E-B0D6-79C11B40FAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B26D9B-CD3E-446E-B0D6-79C11B40FAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D475DF9C-3C8B-464A-A8F7-7BA4BD2CEACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D475DF9C-3C8B-464A-A8F7-7BA4BD2CEACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D475DF9C-3C8B-464A-A8F7-7BA4BD2CEACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D475DF9C-3C8B-464A-A8F7-7BA4BD2CEACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
