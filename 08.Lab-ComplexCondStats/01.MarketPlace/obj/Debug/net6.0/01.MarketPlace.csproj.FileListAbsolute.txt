@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\refint\01.MarketPlace.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\01.MarketPlace\obj\Debug\net6.0\ref\01.MarketPlace.dll
