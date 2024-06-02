@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\refint\02.LargestNumberOutOfThree.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\02.LargestNumberOutOfThree\obj\Debug\net6.0\ref\02.LargestNumberOutOfThree.dll
