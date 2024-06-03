@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA0401D7-FA83-42BD-83DF-8895E3291414}|03.BonusScore\\03.BonusScore.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\08.lab-complexcondstats\\03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0401D7-FA83-42BD-83DF-8895E3291414}|03.BonusScore\\03.BonusScore.csproj|solutionrelative:03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}|04.FoodOrDrink\\04.FoodOrDrink.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\08.lab-complexcondstats\\04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}|04.FoodOrDrink\\04.FoodOrDrink.csproj|solutionrelative:04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\03.BonusScore\\Program.cs",
-              "RelativeDocumentMoniker": "03.BonusScore\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\03.BonusScore\\Program.cs",
-              "RelativeToolTip": "03.BonusScore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\04.FoodOrDrink\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodOrDrink\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\04.FoodOrDrink\\Program.cs",
+              "RelativeToolTip": "04.FoodOrDrink\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:03:50.975Z",
+              "WhenOpened": "2024-06-03T23:15:22.886Z",
               "EditorCaption": ""
             }
           ]
