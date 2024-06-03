@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll
