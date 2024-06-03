@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LargestNumberOutOfThree"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.BonusScore", "03.BonusScore\03.BonusScore.csproj", "{CA0401D7-FA83-42BD-83DF-8895E3291414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FoodOrDrink", "04.FoodOrDrink\04.FoodOrDrink.csproj", "{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FoodOrDrink", "04.FoodOrDrink\04.FoodOrDrink.csproj", "{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.InvalidNumber", "05.InvalidNumber\05.InvalidNumber.csproj", "{2641801D-3474-4E5C-9142-EF1026AF9085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BEF2D99-AABF-4E4B-946F-3F37384DD6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2641801D-3474-4E5C-9142-EF1026AF9085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2641801D-3474-4E5C-9142-EF1026AF9085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2641801D-3474-4E5C-9142-EF1026AF9085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2641801D-3474-4E5C-9142-EF1026AF9085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
