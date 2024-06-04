@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\bin\Debug\net6.0\09.Cinema.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\bin\Debug\net6.0\09.Cinema.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\bin\Debug\net6.0\09.Cinema.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\bin\Debug\net6.0\09.Cinema.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\bin\Debug\net6.0\09.Cinema.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\refint\09.Cinema.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\09.Cinema.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\09.Cinema\obj\Debug\net6.0\ref\09.Cinema.dll
