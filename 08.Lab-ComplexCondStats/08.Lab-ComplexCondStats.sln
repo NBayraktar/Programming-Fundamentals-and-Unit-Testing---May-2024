@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.InvalidNumber", "05.Inva
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.DayOfWeek", "06.DayOfWeek\06.DayOfWeek.csproj", "{63C0C627-EE47-4806-B1B2-89E7BF2CCD4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VowelOrConsonant", "07.VowelOrConsonant\07.VowelOrConsonant.csproj", "{FA41597A-5648-448B-BEFE-482513EF75C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.VowelOrConsonant", "07.VowelOrConsonant\07.VowelOrConsonant.csproj", "{FA41597A-5648-448B-BEFE-482513EF75C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SortedNumbers", "08.SortedNumbers\08.SortedNumbers.csproj", "{140C52DC-EE7D-4599-AFA7-3A7652C51BD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FA41597A-5648-448B-BEFE-482513EF75C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA41597A-5648-448B-BEFE-482513EF75C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA41597A-5648-448B-BEFE-482513EF75C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140C52DC-EE7D-4599-AFA7-3A7652C51BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140C52DC-EE7D-4599-AFA7-3A7652C51BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140C52DC-EE7D-4599-AFA7-3A7652C51BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140C52DC-EE7D-4599-AFA7-3A7652C51BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
