@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2641801D-3474-4E5C-9142-EF1026AF9085}|05.InvalidNumber\\05.InvalidNumber.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\08.lab-complexcondstats\\05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2641801D-3474-4E5C-9142-EF1026AF9085}|05.InvalidNumber\\05.InvalidNumber.csproj|solutionrelative:05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63C0C627-EE47-4806-B1B2-89E7BF2CCD4B}|06.DayOfWeek\\06.DayOfWeek.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\08.lab-complexcondstats\\06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C0C627-EE47-4806-B1B2-89E7BF2CCD4B}|06.DayOfWeek\\06.DayOfWeek.csproj|solutionrelative:06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\05.InvalidNumber\\Program.cs",
-              "RelativeDocumentMoniker": "05.InvalidNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\05.InvalidNumber\\Program.cs",
-              "RelativeToolTip": "05.InvalidNumber\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\06.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "06.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\08.Lab-ComplexCondStats\\06.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "06.DayOfWeek\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:35:26.094Z",
+              "WhenOpened": "2024-06-03T23:56:41.827Z",
               "EditorCaption": ""
             }
           ]

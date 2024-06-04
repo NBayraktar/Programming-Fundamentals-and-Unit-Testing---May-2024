@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\08.Lab-ComplexCondStats\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll
