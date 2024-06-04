@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05.InvalidNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4693e09b2eb6fa9b484e52bedbec3f541051944")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ff5a470132acdf34f4581466672dc6337af85f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("05.InvalidNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05.InvalidNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
