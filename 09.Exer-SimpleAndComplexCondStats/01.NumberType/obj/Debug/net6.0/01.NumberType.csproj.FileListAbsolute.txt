@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\bin\Debug\net6.0\01.NumberType.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\bin\Debug\net6.0\01.NumberType.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\bin\Debug\net6.0\01.NumberType.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\bin\Debug\net6.0\01.NumberType.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\bin\Debug\net6.0\01.NumberType.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\refint\01.NumberType.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\01.NumberType.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\01.NumberType\obj\Debug\net6.0\ref\01.NumberType.dll
