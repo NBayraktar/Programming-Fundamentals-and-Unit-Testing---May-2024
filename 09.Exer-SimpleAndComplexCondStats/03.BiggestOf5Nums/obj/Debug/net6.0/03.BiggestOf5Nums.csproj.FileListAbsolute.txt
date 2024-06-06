@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\bin\Debug\net6.0\03.BiggestOf5Nums.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\bin\Debug\net6.0\03.BiggestOf5Nums.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\bin\Debug\net6.0\03.BiggestOf5Nums.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\bin\Debug\net6.0\03.BiggestOf5Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\bin\Debug\net6.0\03.BiggestOf5Nums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\refint\03.BiggestOf5Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\03.BiggestOf5Nums.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\03.BiggestOf5Nums\obj\Debug\net6.0\ref\03.BiggestOf5Nums.dll
