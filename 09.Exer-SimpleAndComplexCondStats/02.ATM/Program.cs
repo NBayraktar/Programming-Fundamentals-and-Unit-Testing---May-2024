@@ -10,9 +10,9 @@
             int limit = int.Parse(Console.ReadLine());
 
             // Output the result to the console, based on the given input parameters
-            if (balance > withdraw)
+            if (balance >= withdraw)
             {
-                if (withdraw < limit)
+                if (withdraw <= limit)
                 {
                     Console.WriteLine("The withdraw was successful.");
                 }
@@ -23,7 +23,14 @@
             }
             else
             {
-                Console.WriteLine("Insufficient availability.");
+                if (withdraw > limit)
+                {
+                    Console.WriteLine("The limit was exceeded.");
+                }
+                else
+                {
+                    Console.WriteLine("Insufficient availability.");
+                }
             }
         }
     }
