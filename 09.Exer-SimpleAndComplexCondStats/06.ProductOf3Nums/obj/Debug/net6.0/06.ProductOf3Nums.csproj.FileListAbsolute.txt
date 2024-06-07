@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\bin\Debug\net6.0\06.ProductOf3Nums.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\bin\Debug\net6.0\06.ProductOf3Nums.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\bin\Debug\net6.0\06.ProductOf3Nums.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\bin\Debug\net6.0\06.ProductOf3Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\bin\Debug\net6.0\06.ProductOf3Nums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\refint\06.ProductOf3Nums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\06.ProductOf3Nums.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\06.ProductOf3Nums\obj\Debug\net6.0\ref\06.ProductOf3Nums.dll

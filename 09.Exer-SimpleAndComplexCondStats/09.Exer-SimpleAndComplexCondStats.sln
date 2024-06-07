@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.BiggestOf5Nums", "03.Big
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.NumberOperations", "04.NumberOperations\04.NumberOperations.csproj", "{9EA3E67A-D7CA-460C-BD68-895C8A01414C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.VacationExpenses", "05.VacationExpenses\05.VacationExpenses.csproj", "{480FD9F8-2F0F-4317-8876-5C63818166E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.VacationExpenses", "05.VacationExpenses\05.VacationExpenses.csproj", "{480FD9F8-2F0F-4317-8876-5C63818166E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ProductOf3Nums", "06.ProductOf3Nums\06.ProductOf3Nums.csproj", "{D1B1A85B-A814-4E7B-8FE3-4C6D640214C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B1A85B-A814-4E7B-8FE3-4C6D640214C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B1A85B-A814-4E7B-8FE3-4C6D640214C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B1A85B-A814-4E7B-8FE3-4C6D640214C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B1A85B-A814-4E7B-8FE3-4C6D640214C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
