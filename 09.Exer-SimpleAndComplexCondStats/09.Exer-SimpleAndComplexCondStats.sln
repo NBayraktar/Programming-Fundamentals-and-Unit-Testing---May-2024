@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ATM", "02.ATM\02.ATM.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.BiggestOf5Nums", "03.BiggestOf5Nums\03.BiggestOf5Nums.csproj", "{5E2815A3-C9D6-4ADE-86D4-1539ABF0E26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.NumberOperations", "04.NumberOperations\04.NumberOperations.csproj", "{9EA3E67A-D7CA-460C-BD68-895C8A01414C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.NumberOperations", "04.NumberOperations\04.NumberOperations.csproj", "{9EA3E67A-D7CA-460C-BD68-895C8A01414C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.VacationExpenses", "05.VacationExpenses\05.VacationExpenses.csproj", "{480FD9F8-2F0F-4317-8876-5C63818166E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9EA3E67A-D7CA-460C-BD68-895C8A01414C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EA3E67A-D7CA-460C-BD68-895C8A01414C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EA3E67A-D7CA-460C-BD68-895C8A01414C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480FD9F8-2F0F-4317-8876-5C63818166E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\09.Exer-SimpleAndComplexCondStats\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480FD9F8-2F0F-4317-8876-5C63818166E0}|05.VacationExpenses\\05.VacationExpenses.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\09.exer-simpleandcomplexcondstats\\05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480FD9F8-2F0F-4317-8876-5C63818166E0}|05.VacationExpenses\\05.VacationExpenses.csproj|solutionrelative:05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\09.Exer-SimpleAndComplexCondStats\\05.VacationExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "05.VacationExpenses\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\09.Exer-SimpleAndComplexCondStats\\05.VacationExpenses\\Program.cs",
+              "RelativeToolTip": "05.VacationExpenses\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:06.306Z",
+              "EditorCaption": ""
             }
           ]
         }
