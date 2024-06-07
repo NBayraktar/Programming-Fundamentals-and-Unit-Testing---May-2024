@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll

@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ProductOf3Nums", "06.Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.WorkingHours", "07.WorkingHours\07.WorkingHours.csproj", "{01A72E56-FA1C-4A14-940C-011DD3668EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FruitOrVegetable", "08.FruitOrVegetable\08.FruitOrVegetable.csproj", "{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FruitOrVegetable", "08.FruitOrVegetable\08.FruitOrVegetable.csproj", "{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SumSeconds", "09.SumSeconds\09.SumSeconds.csproj", "{77F4C884-4525-473C-AC50-245938576168}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F4C884-4525-473C-AC50-245938576168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F4C884-4525-473C-AC50-245938576168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F4C884-4525-473C-AC50-245938576168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F4C884-4525-473C-AC50-245938576168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
