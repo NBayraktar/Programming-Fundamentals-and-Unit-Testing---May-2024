@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\bin\Debug\net6.0\08.FruitOrVegetable.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\bin\Debug\net6.0\08.FruitOrVegetable.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\bin\Debug\net6.0\08.FruitOrVegetable.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\bin\Debug\net6.0\08.FruitOrVegetable.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\bin\Debug\net6.0\08.FruitOrVegetable.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\refint\08.FruitOrVegetable.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\08.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\09.Exer-SimpleAndComplexCondStats\08.FruitOrVegetable\obj\Debug\net6.0\ref\08.FruitOrVegetable.dll
