@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.WorkingHours", "07.Worki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FruitOrVegetable", "08.FruitOrVegetable\08.FruitOrVegetable.csproj", "{7638F5A8-AE89-4044-AE43-E5B1D2E54A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SumSeconds", "09.SumSeconds\09.SumSeconds.csproj", "{77F4C884-4525-473C-AC50-245938576168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.SumSeconds", "09.SumSeconds\09.SumSeconds.csproj", "{77F4C884-4525-473C-AC50-245938576168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SummerOutfit", "10.SummerOutfit\10.SummerOutfit.csproj", "{2349FA14-92FB-489A-A606-A04520D5C8F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{77F4C884-4525-473C-AC50-245938576168}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77F4C884-4525-473C-AC50-245938576168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77F4C884-4525-473C-AC50-245938576168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2349FA14-92FB-489A-A606-A04520D5C8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2349FA14-92FB-489A-A606-A04520D5C8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2349FA14-92FB-489A-A606-A04520D5C8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2349FA14-92FB-489A-A606-A04520D5C8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
