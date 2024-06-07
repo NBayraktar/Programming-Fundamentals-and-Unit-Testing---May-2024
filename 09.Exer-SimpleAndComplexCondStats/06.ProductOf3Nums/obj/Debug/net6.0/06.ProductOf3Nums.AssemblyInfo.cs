@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06.ProductOf3Nums")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c156f713c33e5fc195c4b0ea1c5d9b964fdf9e6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08825afb56f0df3c5b1653a7585f5ea9c5a27434")]
 [assembly: System.Reflection.AssemblyProductAttribute("06.ProductOf3Nums")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06.ProductOf3Nums")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
