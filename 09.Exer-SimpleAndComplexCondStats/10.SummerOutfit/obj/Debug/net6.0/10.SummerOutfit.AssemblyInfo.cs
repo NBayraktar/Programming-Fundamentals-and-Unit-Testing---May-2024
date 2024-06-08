@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10.SummerOutfit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da80b444e312e37e6425cfcd87673e586b380c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7082782d9b85cdefa0e151ef064ced506045947")]
 [assembly: System.Reflection.AssemblyProductAttribute("10.SummerOutfit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10.SummerOutfit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
