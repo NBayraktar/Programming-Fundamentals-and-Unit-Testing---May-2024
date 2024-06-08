@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\refint\01.NumbersInRange.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\01.NumbersInRange\obj\Debug\net6.0\ref\01.NumbersInRange.dll
