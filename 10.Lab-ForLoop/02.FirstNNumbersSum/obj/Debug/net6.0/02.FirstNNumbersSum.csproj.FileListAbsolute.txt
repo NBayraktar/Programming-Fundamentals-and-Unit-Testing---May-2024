@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\refint\02.FirstNNumbersSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\ref\02.FirstNNumbersSum.dll
