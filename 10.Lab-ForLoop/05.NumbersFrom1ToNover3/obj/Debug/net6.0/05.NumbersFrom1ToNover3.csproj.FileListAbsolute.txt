@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\bin\Debug\net6.0\05.NumbersFrom1ToNover3.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\bin\Debug\net6.0\05.NumbersFrom1ToNover3.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\bin\Debug\net6.0\05.NumbersFrom1ToNover3.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\bin\Debug\net6.0\05.NumbersFrom1ToNover3.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\bin\Debug\net6.0\05.NumbersFrom1ToNover3.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\refint\05.NumbersFrom1ToNover3.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\05.NumbersFrom1ToNover3.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\10.Lab-ForLoop\05.NumbersFrom1ToNover3\obj\Debug\net6.0\ref\05.NumbersFrom1ToNover3.dll
