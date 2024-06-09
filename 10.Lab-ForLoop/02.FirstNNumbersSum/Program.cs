@@ -8,14 +8,14 @@
             int num = int.Parse(Console.ReadLine());
 
             // Sums all numbers from 1 to n and output the result to the console
-            int sum = 1; 
+            int sum = 1;
             Console.Write(1);
             for (int i = 2; i <= num; i++)
             {
-                Console.Write("+" + i);
+                Console.Write("+"+i);
                 sum += i;
             }
-            Console.WriteLine("=" + sum);
+            Console.Write($"={sum}");
         }
     }
 }
