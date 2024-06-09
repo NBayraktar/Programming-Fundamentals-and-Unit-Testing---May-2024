@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.NumbersEndingIn7", "04.N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.NumbersFrom1ToNover3", "05.NumbersFrom1ToNover3\05.NumbersFrom1ToNover3.csproj", "{1F67D8C5-CFB0-4064-B93A-182BE6176DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ExamCountdown", "06.ExamCountdown\06.ExamCountdown.csproj", "{E1BBFD34-7FB7-43D2-953D-778D819ADBF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ExamCountdown", "06.ExamCountdown\06.ExamCountdown.csproj", "{E1BBFD34-7FB7-43D2-953D-778D819ADBF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LatinLetters", "07.LatinLetters\07.LatinLetters.csproj", "{69C40CC2-3A08-4AC7-862B-10D35547965F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E1BBFD34-7FB7-43D2-953D-778D819ADBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1BBFD34-7FB7-43D2-953D-778D819ADBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1BBFD34-7FB7-43D2-953D-778D819ADBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C40CC2-3A08-4AC7-862B-10D35547965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C40CC2-3A08-4AC7-862B-10D35547965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C40CC2-3A08-4AC7-862B-10D35547965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C40CC2-3A08-4AC7-862B-10D35547965F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
