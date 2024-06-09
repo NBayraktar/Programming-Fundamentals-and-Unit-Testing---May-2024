@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\11.Lab-WhileLoop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1351204-A28B-478E-949F-5DCCA6DBA62D}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\11.lab-whileloop\\02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1351204-A28B-478E-949F-5DCCA6DBA62D}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|solutionrelative:02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFC72D44-891D-4031-847B-8AD32A300406}|01.Numbers1To100\\01.Numbers1To100.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\11.lab-whileloop\\01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC72D44-891D-4031-847B-8AD32A300406}|01.Numbers1To100\\01.Numbers1To100.csproj|solutionrelative:01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\11.Lab-WhileLoop\\02.DecreasingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.DecreasingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\11.Lab-WhileLoop\\02.DecreasingNumbers\\Program.cs",
+              "RelativeToolTip": "02.DecreasingNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:40:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\11.Lab-WhileLoop\\01.Numbers1To100\\Program.cs",
               "RelativeDocumentMoniker": "01.Numbers1To100\\Program.cs",

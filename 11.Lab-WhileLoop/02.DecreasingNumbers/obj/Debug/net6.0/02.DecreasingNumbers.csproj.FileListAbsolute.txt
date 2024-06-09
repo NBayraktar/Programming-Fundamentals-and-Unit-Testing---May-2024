@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\bin\Debug\net6.0\02.DecreasingNumbers.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\refint\02.DecreasingNumbers.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\02.DecreasingNumbers.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\11.Lab-WhileLoop\02.DecreasingNumbers\obj\Debug\net6.0\ref\02.DecreasingNumbers.dll
