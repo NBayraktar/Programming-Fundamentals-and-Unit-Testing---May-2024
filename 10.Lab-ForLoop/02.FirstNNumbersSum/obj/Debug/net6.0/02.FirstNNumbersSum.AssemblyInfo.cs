@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.FirstNNumbersSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e1acfa3d5fceb508742592683f89a42ea6a147")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c00c14b5b5a99825626777a8ec17e963051f380")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.FirstNNumbersSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.FirstNNumbersSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
