@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Print numbers from 1 to 100, each on separate line
+            int num = 1;
+            while (num <= 100)
+            {
+                Console.WriteLine(num);
+                num++;
+            }
         }
     }
 }
