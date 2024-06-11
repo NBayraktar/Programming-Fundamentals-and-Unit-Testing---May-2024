@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Sequence2k+1", "04.Seque
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SumDigits", "05.SumDigits\05.SumDigits.csproj", "{2BEBEAE4-0A11-43CC-98A1-C5296C11F01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberInRange", "06.NumberInRange\06.NumberInRange.csproj", "{3C4B97BD-8DA5-445B-9367-6B4D68B6F8D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.NumberInRange", "06.NumberInRange\06.NumberInRange.csproj", "{3C4B97BD-8DA5-445B-9367-6B4D68B6F8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NumberProcessor", "07.NumberProcessor\07.NumberProcessor.csproj", "{DF6A3CD0-EE51-4328-A7CC-B682797915FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3C4B97BD-8DA5-445B-9367-6B4D68B6F8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C4B97BD-8DA5-445B-9367-6B4D68B6F8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C4B97BD-8DA5-445B-9367-6B4D68B6F8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6A3CD0-EE51-4328-A7CC-B682797915FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6A3CD0-EE51-4328-A7CC-B682797915FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6A3CD0-EE51-4328-A7CC-B682797915FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6A3CD0-EE51-4328-A7CC-B682797915FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
