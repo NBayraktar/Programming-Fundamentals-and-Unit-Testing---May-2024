@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.PowerOfNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+588c0f5b67f20ff6522e01463316f0d1da1a4015")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61c18cda37514d3b3676fd98025b51a7ba930dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.PowerOfNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.PowerOfNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
