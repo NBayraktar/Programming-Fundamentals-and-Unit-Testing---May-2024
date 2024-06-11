@@ -5,14 +5,14 @@
         static void Main(string[] args)
         {
             // Read an integer positive number from the console
-            int num = int.Parse(Console.ReadLine());
+            int number = int.Parse(Console.ReadLine());
 
             int sum = 0;
-            while (num != 0)
+            while (number != 0)
             {
-                int lastDigit = num % 10;
+                int lastDigit = number % 10;
                 sum += lastDigit;
-                num /= 10;
+                number /= 10;
             }
             Console.WriteLine(sum);
         }
