@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\refint\04.VowelSum.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\12.Exercise-Loops\04.VowelSum\obj\Debug\net6.0\ref\04.VowelSum.dll
