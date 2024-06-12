@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PowerOfNumber", "01.PowerOfNumber\01.PowerOfNumber.csproj", "{7C2A4EE8-2CAD-4B79-80C7-C2FC0FD03B0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MultiplicationTable", "02.MultiplicationTable\02.MultiplicationTable.csproj", "{9A0B0A2B-DB64-4C42-A09E-FA937A6044C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MultiplicationTable", "02.MultiplicationTable\02.MultiplicationTable.csproj", "{9A0B0A2B-DB64-4C42-A09E-FA937A6044C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BiggestNumber", "03.BiggestNumber\03.BiggestNumber.csproj", "{1C4607F2-E659-499A-B0C2-2C78CEC77F84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9A0B0A2B-DB64-4C42-A09E-FA937A6044C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A0B0A2B-DB64-4C42-A09E-FA937A6044C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A0B0A2B-DB64-4C42-A09E-FA937A6044C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4607F2-E659-499A-B0C2-2C78CEC77F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4607F2-E659-499A-B0C2-2C78CEC77F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4607F2-E659-499A-B0C2-2C78CEC77F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4607F2-E659-499A-B0C2-2C78CEC77F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
