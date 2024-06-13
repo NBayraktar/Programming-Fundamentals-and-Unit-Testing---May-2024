@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\12.Exercise-Loops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D37B743-3D80-49D8-99F2-299C592D2CB2}|04.VowelSum\\04.VowelSum.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\12.exercise-loops\\04.vowelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D37B743-3D80-49D8-99F2-299C592D2CB2}|04.VowelSum\\04.VowelSum.csproj|solutionrelative:04.vowelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}|05.DivisionT23And4\\05.DivisionT23And4.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\12.exercise-loops\\05.divisiont23and4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}|05.DivisionT23And4\\05.DivisionT23And4.csproj|solutionrelative:05.divisiont23and4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\12.Exercise-Loops\\04.VowelSum\\Program.cs",
-              "RelativeDocumentMoniker": "04.VowelSum\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\12.Exercise-Loops\\04.VowelSum\\Program.cs",
-              "RelativeToolTip": "04.VowelSum\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAMDMzMzPbvxwAAAAdAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\12.Exercise-Loops\\05.DivisionT23And4\\Program.cs",
+              "RelativeDocumentMoniker": "05.DivisionT23And4\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\12.Exercise-Loops\\05.DivisionT23And4\\Program.cs",
+              "RelativeToolTip": "05.DivisionT23And4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:56:58.374Z",
+              "WhenOpened": "2024-06-13T14:47:54.117Z",
               "EditorCaption": ""
             }
           ]
