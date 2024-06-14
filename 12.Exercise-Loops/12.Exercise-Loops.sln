@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DivisionT23And4", "05.Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SpecialNumber", "06.SpecialNumber\06.SpecialNumber.csproj", "{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SpecialBonus", "07.SpecialBonus\07.SpecialBonus.csproj", "{48D0D1F1-69B6-4547-A8C2-4CCC5591BB10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SpecialBonus", "07.SpecialBonus\07.SpecialBonus.csproj", "{48D0D1F1-69B6-4547-A8C2-4CCC5591BB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AccountBalance", "08.AccountBalance\08.AccountBalance.csproj", "{5C79FCE6-29A3-4D1A-A11E-6B3E94768E49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{48D0D1F1-69B6-4547-A8C2-4CCC5591BB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48D0D1F1-69B6-4547-A8C2-4CCC5591BB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48D0D1F1-69B6-4547-A8C2-4CCC5591BB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C79FCE6-29A3-4D1A-A11E-6B3E94768E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C79FCE6-29A3-4D1A-A11E-6B3E94768E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C79FCE6-29A3-4D1A-A11E-6B3E94768E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C79FCE6-29A3-4D1A-A11E-6B3E94768E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
