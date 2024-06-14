@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.BiggestNumber", "03.Bigg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.VowelSum", "04.VowelSum\04.VowelSum.csproj", "{9D37B743-3D80-49D8-99F2-299C592D2CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DivisionT23And4", "05.DivisionT23And4\05.DivisionT23And4.csproj", "{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DivisionT23And4", "05.DivisionT23And4\05.DivisionT23And4.csproj", "{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpecialNumber", "06.SpecialNumber\06.SpecialNumber.csproj", "{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{761B2C7C-C3DC-48EA-A38A-32BCD39D9590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED0FD1F-6E7E-446C-A873-9D5FA79087F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
