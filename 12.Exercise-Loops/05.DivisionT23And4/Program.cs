@@ -29,7 +29,13 @@
                     divisible4++;
                 }
             }
+            double percent2 = (double)divisible2 / num * 100;
+            double percent3 = (double)divisible3 / num * 100;
+            double percent4 = (double)divisible4 / num * 100;
 
+            Console.WriteLine($"{percent2:F2}%");
+            Console.WriteLine($"{percent3:F2}%");
+            Console.WriteLine($"{percent4:F2}%");
 
         }
     }
