@@ -7,11 +7,12 @@
             // Read a sequence of incomes / expenses, until "End" is read
 
             double balance = 0;
+            string end = Console.ReadLine();
             while (true)
             {
                 double money = double.Parse(Console.ReadLine());
 
-                if (money > 0)
+                if (money >= 0)
                 {
                     balance += money;
                     Console.WriteLine($"Increase: {money:F2}");
@@ -20,7 +21,11 @@
                 {
                     balance = balance - Math.Abs(money);
                     Console.WriteLine($"Decrease: {Math.Abs(money):F2}");
-                    string end = Console.ReadLine();
+                    
+                  
+                }
+                if (end == "End")
+                {
                     break;
                 }
             }
