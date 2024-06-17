@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\bin\Debug\net6.0\03.TriangleofStars.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\bin\Debug\net6.0\03.TriangleofStars.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\bin\Debug\net6.0\03.TriangleofStars.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\bin\Debug\net6.0\03.TriangleofStars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\bin\Debug\net6.0\03.TriangleofStars.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\refint\03.TriangleofStars.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\03.TriangleofStars.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\03.TriangleofStars\obj\Debug\net6.0\ref\03.TriangleofStars.dll
