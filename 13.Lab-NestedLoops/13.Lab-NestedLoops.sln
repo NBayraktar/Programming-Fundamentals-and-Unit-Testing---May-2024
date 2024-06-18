@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.NumbersFromNto1", "01.NumbersFromNto1\01.NumbersFromNto1.csproj", "{7B7EC0D5-7AF2-4FB5-91FE-FEE65551E6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EvenPowersOf2", "02.EvenPowersOf2\02.EvenPowersOf2.csproj", "{674C6082-C1E4-45E4-B4CC-BBBD811646AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenPowersOf2", "02.EvenPowersOf2\02.EvenPowersOf2.csproj", "{674C6082-C1E4-45E4-B4CC-BBBD811646AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TriangleofStars", "03.TriangleofStars\03.TriangleofStars.csproj", "{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TriangleofStars", "03.TriangleofStars\03.TriangleofStars.csproj", "{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.NumberPyramid", "05.NumberPyramid\05.NumberPyramid.csproj", "{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

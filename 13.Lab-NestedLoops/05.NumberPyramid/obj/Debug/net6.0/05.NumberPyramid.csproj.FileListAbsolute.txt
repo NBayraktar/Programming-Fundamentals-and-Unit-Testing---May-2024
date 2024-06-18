@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\bin\Debug\net6.0\05.NumberPyramid.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\bin\Debug\net6.0\05.NumberPyramid.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\bin\Debug\net6.0\05.NumberPyramid.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\bin\Debug\net6.0\05.NumberPyramid.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\bin\Debug\net6.0\05.NumberPyramid.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\refint\05.NumberPyramid.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\05.NumberPyramid.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\05.NumberPyramid\obj\Debug\net6.0\ref\05.NumberPyramid.dll
