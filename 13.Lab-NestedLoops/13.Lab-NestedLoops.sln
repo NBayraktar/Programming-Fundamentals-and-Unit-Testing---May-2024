@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EvenPowersOf2", "02.Even
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TriangleofStars", "03.TriangleofStars\03.TriangleofStars.csproj", "{1FCC7530-D3C0-41EC-B5BB-E3DBF121CB00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.NumberPyramid", "05.NumberPyramid\05.NumberPyramid.csproj", "{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.NumberPyramid", "05.NumberPyramid\05.NumberPyramid.csproj", "{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Building", "04.Building\04.Building.csproj", "{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
