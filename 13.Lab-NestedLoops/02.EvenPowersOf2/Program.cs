@@ -8,7 +8,11 @@
             int num = int.Parse(Console.ReadLine());
 
             // Print on the console the number two on even powers in the range [0; n];
-
+            for (int i = 0; i <= num; i++) {
+                if (i % 2 == 0) {
+                    Console.WriteLine(Math.Pow(2, i));
+                }
+            }
         }
     }
 }

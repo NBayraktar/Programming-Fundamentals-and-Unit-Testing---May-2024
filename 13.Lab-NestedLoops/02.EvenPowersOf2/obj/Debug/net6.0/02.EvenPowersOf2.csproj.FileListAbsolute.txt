@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\bin\Debug\net6.0\02.EvenPowersOf2.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\bin\Debug\net6.0\02.EvenPowersOf2.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\bin\Debug\net6.0\02.EvenPowersOf2.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\bin\Debug\net6.0\02.EvenPowersOf2.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\bin\Debug\net6.0\02.EvenPowersOf2.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\refint\02.EvenPowersOf2.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\02.EvenPowersOf2.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\02.EvenPowersOf2\obj\Debug\net6.0\ref\02.EvenPowersOf2.dll

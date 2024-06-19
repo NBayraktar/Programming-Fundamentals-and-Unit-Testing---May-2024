@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\bin\Debug\net6.0\04.Building.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\bin\Debug\net6.0\04.Building.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\bin\Debug\net6.0\04.Building.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\bin\Debug\net6.0\04.Building.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\bin\Debug\net6.0\04.Building.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\refint\04.Building.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\04.Building.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\04.Building\obj\Debug\net6.0\ref\04.Building.dll
