@@ -9,22 +9,20 @@
             int room = int.Parse(Console.ReadLine());
             
             // print a table, representing a building:
-            for (int f = floor; floor >= 1; floor--)
-            {
-                for (int r = 1; r <= room; room++)
+            for (int f = floor; f > 0; f--) { 
+                for (int r = 0; r < room; r++)
                 {
-                    if (f == floor)
-                    {
-                        Console.Write($"L{f}{r}");
+                    if (f == floor) {
+                        Console.Write($"L{f}{r} ");
                     }
-                    else if (r % 2 == 0) {
-                        Console.Write($"O{f}{r}");
+                    else if (f % 2 == 0)
+                    {
+                        Console.Write($"O{f}{r} ");
                     }
                     else
                     {
-                        Console.Write($"A{f}{r}");
+                        Console.Write($"A{f}{r} ");
                     }
-                    break;
                 }
                 Console.WriteLine();
             }
