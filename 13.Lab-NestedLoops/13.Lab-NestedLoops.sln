@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TriangleofStars", "03.Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.NumberPyramid", "05.NumberPyramid\05.NumberPyramid.csproj", "{6F3AFCF4-B029-4FA6-8C64-597B8C246E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Building", "04.Building\04.Building.csproj", "{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Building", "04.Building\04.Building.csproj", "{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TravelSavings", "06.TravelSavings\06.TravelSavings.csproj", "{FADF77F0-EB14-47EE-952B-B344BB23D07B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABCBE5DC-03E8-4A19-89F0-DF33A04E55CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADF77F0-EB14-47EE-952B-B344BB23D07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADF77F0-EB14-47EE-952B-B344BB23D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADF77F0-EB14-47EE-952B-B344BB23D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADF77F0-EB14-47EE-952B-B344BB23D07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.EvenPowersOf2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6557ebc4fe270e2afcfcb93fa02c0afa72d597db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae08a5b287079a53b3b57f02a7b2a4d59a397e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.EvenPowersOf2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.EvenPowersOf2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
