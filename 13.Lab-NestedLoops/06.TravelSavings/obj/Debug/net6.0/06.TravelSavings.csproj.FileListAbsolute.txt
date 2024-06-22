@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\refint\06.TravelSavings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\13.Lab-NestedLoops\06.TravelSavings\obj\Debug\net6.0\ref\06.TravelSavings.dll
