@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Building", "04.Building\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TravelSavings", "06.TravelSavings\06.TravelSavings.csproj", "{FADF77F0-EB14-47EE-952B-B344BB23D07B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumOfDigitsCalculator", "07.SumOfDigitsCalculator\07.SumOfDigitsCalculator.csproj", "{2BB6941D-0101-4B59-819C-1195E0A2B4DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SumOfDigitsCalculator", "07.SumOfDigitsCalculator\07.SumOfDigitsCalculator.csproj", "{2BB6941D-0101-4B59-819C-1195E0A2B4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PrimeNumbers", "08.PrimeNumbers\08.PrimeNumbers.csproj", "{E03F6467-2FB5-4D4C-A2D6-0D29DF95F517}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2BB6941D-0101-4B59-819C-1195E0A2B4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BB6941D-0101-4B59-819C-1195E0A2B4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BB6941D-0101-4B59-819C-1195E0A2B4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03F6467-2FB5-4D4C-A2D6-0D29DF95F517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03F6467-2FB5-4D4C-A2D6-0D29DF95F517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03F6467-2FB5-4D4C-A2D6-0D29DF95F517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03F6467-2FB5-4D4C-A2D6-0D29DF95F517}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
