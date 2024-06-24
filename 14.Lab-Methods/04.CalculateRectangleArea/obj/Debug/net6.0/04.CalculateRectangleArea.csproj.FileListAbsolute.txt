@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll
