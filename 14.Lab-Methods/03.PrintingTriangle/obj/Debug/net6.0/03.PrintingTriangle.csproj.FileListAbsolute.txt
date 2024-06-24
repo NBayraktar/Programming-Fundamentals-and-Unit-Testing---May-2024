@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\refint\03.PrintingTriangle.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\14.Lab-Methods\03.PrintingTriangle\obj\Debug\net6.0\ref\03.PrintingTriangle.dll
