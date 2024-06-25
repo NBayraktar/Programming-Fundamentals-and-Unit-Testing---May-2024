@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PrintingTriangle", "03.P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CalculateRectangleArea", "04.CalculateRectangleArea\04.CalculateRectangleArea.csproj", "{CC8E5CD3-5D93-4EBE-BE94-D583FD721BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RepeatString", "05.RepeatString\05.RepeatString.csproj", "{13D5A7B0-4A76-40D6-AB66-D8971C469F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RepeatString", "05.RepeatString\05.RepeatString.csproj", "{13D5A7B0-4A76-40D6-AB66-D8971C469F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MathPower", "06.MathPower\06.MathPower.csproj", "{CCA2AC59-A42C-4FFD-B083-70697FF7EA06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{13D5A7B0-4A76-40D6-AB66-D8971C469F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D5A7B0-4A76-40D6-AB66-D8971C469F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D5A7B0-4A76-40D6-AB66-D8971C469F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA2AC59-A42C-4FFD-B083-70697FF7EA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA2AC59-A42C-4FFD-B083-70697FF7EA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA2AC59-A42C-4FFD-B083-70697FF7EA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA2AC59-A42C-4FFD-B083-70697FF7EA06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
