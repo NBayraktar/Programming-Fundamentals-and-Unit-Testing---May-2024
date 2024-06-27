@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2753A92F-B1D1-4EA0-9143-203F5AC39B2B}|01.StupidPasswords\\01.StupidPasswords.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\15.exer-nestloopsandmeths\\01.stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2753A92F-B1D1-4EA0-9143-203F5AC39B2B}|01.StupidPasswords\\01.StupidPasswords.csproj|solutionrelative:01.stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{972A7474-DA46-49A6-86F9-597081DA2F8B}|02.MagicNumbers\\02.MagicNumbers.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\15.exer-nestloopsandmeths\\02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972A7474-DA46-49A6-86F9-597081DA2F8B}|02.MagicNumbers\\02.MagicNumbers.csproj|solutionrelative:02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\01.StupidPasswords\\Program.cs",
-              "RelativeDocumentMoniker": "01.StupidPasswords\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\01.StupidPasswords\\Program.cs",
-              "RelativeToolTip": "01.StupidPasswords\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\02.MagicNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.MagicNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\02.MagicNumbers\\Program.cs",
+              "RelativeToolTip": "02.MagicNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T18:48:15.779Z",
+              "WhenOpened": "2024-06-27T17:47:25.299Z",
               "EditorCaption": ""
             }
           ]
