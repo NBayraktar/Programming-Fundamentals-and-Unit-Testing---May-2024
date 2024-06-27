@@ -7,34 +7,32 @@
             // Read a string on the first line from the console representing a product. Read an integer on the second line from the console, representing the quantity of the product
             string product = Console.ReadLine();
             int quantity = int.Parse(Console.ReadLine());
-            double sum = CalculateTotalPrice(product, quantity);
-            Console.WriteLine($"{sum:F2}");
+            CalculateTotalPrice(product, quantity);
+            
         }
 
-        static double CalculateTotalPrice(string p, int q) {
-            double coffee = 1.50;
-            double water = 1.00;
-            double coke = 1.40;
-            double snacks = 2.00;
+        static void CalculateTotalPrice(string p, int q)
+        {
             double total = 0;
-            if (p == "coffee" && q > 0)
+            if (p != "" && q > 0)
             {
-                 total += q * coffee;
-                
+                switch (p)
+                {
+                    case "coffee":
+                        total += q * 1.50;
+                        break;
+                    case "water":
+                        total += q * 1.00;
+                        break;
+                    case "coke":
+                        total += q * 1.40;
+                        break;
+                    case "snacks":
+                        total += q * 2.00;
+                        break;
+                }
             }
-            else if (p == "water" && q > 0)
-            {
-                total += q * water;
-            }
-            else if (p == "coke" && q > 0)
-            {
-                total += q * coke;
-            }
-            else if (p == "snacks" && q > 0)
-            {
-                total += q * snacks;
-            }
-           return (int)total;
+            Console.WriteLine($"{total:F2}");
         }
     }
 }
