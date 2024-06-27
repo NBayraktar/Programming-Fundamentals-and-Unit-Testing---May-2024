@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.StupidPasswords", "01.StupidPasswords\01.StupidPasswords.csproj", "{2753A92F-B1D1-4EA0-9143-203F5AC39B2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MagicNumbers", "02.MagicNumbers\02.MagicNumbers.csproj", "{972A7474-DA46-49A6-86F9-597081DA2F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MagicNumbers", "02.MagicNumbers\02.MagicNumbers.csproj", "{972A7474-DA46-49A6-86F9-597081DA2F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.UniquePINCodes", "03.UniquePINCodes\03.UniquePINCodes.csproj", "{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{972A7474-DA46-49A6-86F9-597081DA2F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972A7474-DA46-49A6-86F9-597081DA2F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972A7474-DA46-49A6-86F9-597081DA2F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

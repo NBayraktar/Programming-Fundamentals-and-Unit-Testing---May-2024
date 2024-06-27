@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}|03.UniquePINCodes\\03.UniquePINCodes.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\15.exer-nestloopsandmeths\\03.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}|03.UniquePINCodes\\03.UniquePINCodes.csproj|solutionrelative:03.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{972A7474-DA46-49A6-86F9-597081DA2F8B}|02.MagicNumbers\\02.MagicNumbers.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\15.exer-nestloopsandmeths\\02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972A7474-DA46-49A6-86F9-597081DA2F8B}|02.MagicNumbers\\02.MagicNumbers.csproj|solutionrelative:02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\03.UniquePINCodes\\Program.cs",
+              "RelativeDocumentMoniker": "03.UniquePINCodes\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\03.UniquePINCodes\\Program.cs",
+              "RelativeToolTip": "03.UniquePINCodes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:32:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\15.Exer-NestLoopsAndMeths\\02.MagicNumbers\\Program.cs",
               "RelativeDocumentMoniker": "02.MagicNumbers\\Program.cs",

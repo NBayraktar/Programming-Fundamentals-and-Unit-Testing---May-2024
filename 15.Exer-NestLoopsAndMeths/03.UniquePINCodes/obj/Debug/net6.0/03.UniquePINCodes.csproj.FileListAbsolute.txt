@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\refint\03.UniquePINCodes.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\03.UniquePINCodes\obj\Debug\net6.0\ref\03.UniquePINCodes.dll
