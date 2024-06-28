@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\refint\04.LetterCombinations.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\04.LetterCombinations\obj\Debug\net6.0\ref\04.LetterCombinations.dll

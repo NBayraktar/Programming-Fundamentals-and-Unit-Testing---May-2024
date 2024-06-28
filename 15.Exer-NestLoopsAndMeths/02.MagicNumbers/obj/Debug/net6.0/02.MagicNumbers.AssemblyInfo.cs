@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.MagicNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b73946a30b7d5ff1c2c9a4848c6a899a60f9eab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7d60549ddd8dc2216058534ff3f4f4a7faa65d")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.MagicNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.MagicNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
