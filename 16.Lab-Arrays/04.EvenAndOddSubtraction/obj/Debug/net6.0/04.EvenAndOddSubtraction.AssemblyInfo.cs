@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04.EvenAndOddSubtraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ed360d245f842c1a321e015f542ca43fe984426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e02226cff13d1fa03ecfff3e694c9d8a72a2658")]
 [assembly: System.Reflection.AssemblyProductAttribute("04.EvenAndOddSubtraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04.EvenAndOddSubtraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
