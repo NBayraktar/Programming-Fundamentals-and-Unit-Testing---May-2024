@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\refint\01.DayOfWeek.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\16.Lab-Arrays\01.DayOfWeek\obj\Debug\net6.0\ref\01.DayOfWeek.dll
