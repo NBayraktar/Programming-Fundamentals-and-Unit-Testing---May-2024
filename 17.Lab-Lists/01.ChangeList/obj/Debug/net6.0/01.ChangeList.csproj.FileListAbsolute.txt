@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\bin\Debug\net6.0\01.ChangeList.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\refint\01.ChangeList.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\01.ChangeList.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\17.Lab-Lists\01.ChangeList\obj\Debug\net6.0\ref\01.ChangeList.dll
