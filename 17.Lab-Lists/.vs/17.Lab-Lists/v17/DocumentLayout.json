@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\17.Lab-Lists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3670FA0-A3B3-4D0F-9D18-965150708C71}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\17.lab-lists\\04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3670FA0-A3B3-4D0F-9D18-965150708C71}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|solutionrelative:04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39EF47B-3CB9-4070-A958-45210E6C1E43}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\17.lab-lists\\05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39EF47B-3CB9-4070-A958-45210E6C1E43}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|solutionrelative:05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\17.Lab-Lists\\04.ListManipulationBasics\\Program.cs",
-              "RelativeDocumentMoniker": "04.ListManipulationBasics\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\17.Lab-Lists\\04.ListManipulationBasics\\Program.cs",
-              "RelativeToolTip": "04.ListManipulationBasics\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\17.Lab-Lists\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "05.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\17.Lab-Lists\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "05.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:58:00.43Z",
+              "WhenOpened": "2024-07-04T21:14:36.914Z",
               "EditorCaption": ""
             }
           ]

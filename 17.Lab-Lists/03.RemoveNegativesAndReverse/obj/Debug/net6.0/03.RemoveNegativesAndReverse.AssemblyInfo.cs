@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.RemoveNegativesAndReverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fe7a516a2ad9617ca4de2bd5f406a51a5ea3fa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f07604a60efad7533b982717ae1a8ed80ba5519")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.RemoveNegativesAndReverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.RemoveNegativesAndReverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
