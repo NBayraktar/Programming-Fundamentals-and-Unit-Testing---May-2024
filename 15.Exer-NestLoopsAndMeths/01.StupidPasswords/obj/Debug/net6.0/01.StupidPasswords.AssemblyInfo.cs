@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.StupidPasswords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7d60549ddd8dc2216058534ff3f4f4a7faa65d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ac5c8cca168d32389b539bedb4cbd4f7768068")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.StupidPasswords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.StupidPasswords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

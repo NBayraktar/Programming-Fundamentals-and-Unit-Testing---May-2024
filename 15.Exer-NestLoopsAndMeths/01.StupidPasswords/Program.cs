@@ -12,15 +12,14 @@ namespace _01.StupidPasswords
             // Generates all possible passwords consisting of the following 3 parts:
             // The first part is an even number in the range[2…N]
             // The second digit is an odd number in the range [1…N]
-            // The second digit is an odd number in the range [1…N]
-            for (int even = 2; even <= number; even += 2)
-            {
-                for (int odd = 1; odd <= number; odd += 2)
-                {
+            // The third is the product of the first two
+            for (int even = 2; even <= number; even += 2) {
+                for (int odd = 1; odd <= number; odd += 2) {
                     int product = even * odd;
                     Console.Write($"{even}{odd}{product} ");
                 }
             }
+            
         }
     }
 }
