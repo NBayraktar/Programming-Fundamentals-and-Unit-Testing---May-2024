@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MagicNumbers", "02.Magic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.UniquePINCodes", "03.UniquePINCodes\03.UniquePINCodes.csproj", "{AF4C2F1B-0764-422C-AAF6-BF1505B31A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LetterCombinations", "04.LetterCombinations\04.LetterCombinations.csproj", "{D6FBB3D6-7767-42D5-AD4E-965EBBC32939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.LetterCombinations", "04.LetterCombinations\04.LetterCombinations.csproj", "{D6FBB3D6-7767-42D5-AD4E-965EBBC32939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HappyNumbers", "05.HappyNumbers\05.HappyNumbers.csproj", "{0C48104A-6ADB-42FA-AE49-0946C92A36BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D6FBB3D6-7767-42D5-AD4E-965EBBC32939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FBB3D6-7767-42D5-AD4E-965EBBC32939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FBB3D6-7767-42D5-AD4E-965EBBC32939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C48104A-6ADB-42FA-AE49-0946C92A36BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C48104A-6ADB-42FA-AE49-0946C92A36BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C48104A-6ADB-42FA-AE49-0946C92A36BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C48104A-6ADB-42FA-AE49-0946C92A36BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
