@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04.LetterCombinations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d32abd1ec86b5ff5d557f79d2059fed9120d05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f844420b397e2641b2ed15f37da709a9fde5d59d")]
 [assembly: System.Reflection.AssemblyProductAttribute("04.LetterCombinations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04.LetterCombinations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
