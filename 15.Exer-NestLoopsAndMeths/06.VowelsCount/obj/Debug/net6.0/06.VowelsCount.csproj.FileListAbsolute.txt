@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\refint\06.VowelsCount.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\15.Exer-NestLoopsAndMeths\06.VowelsCount\obj\Debug\net6.0\ref\06.VowelsCount.dll
