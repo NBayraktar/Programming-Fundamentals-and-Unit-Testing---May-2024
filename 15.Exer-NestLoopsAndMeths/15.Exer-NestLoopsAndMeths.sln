@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.LetterCombinations", "04
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.HappyNumbers", "05.HappyNumbers\05.HappyNumbers.csproj", "{0C48104A-6ADB-42FA-AE49-0946C92A36BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.VowelsCount", "06.VowelsCount\06.VowelsCount.csproj", "{BD50683F-5712-4CCB-BDBB-AF4BBC2D3139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.VowelsCount", "06.VowelsCount\06.VowelsCount.csproj", "{BD50683F-5712-4CCB-BDBB-AF4BBC2D3139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MultiplicationSign", "08.MultiplicationSign\08.MultiplicationSign.csproj", "{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MultiplicationSign", "08.MultiplicationSign\08.MultiplicationSign.csproj", "{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FactorialDivision", "07.FactorialDivision\07.FactorialDivision.csproj", "{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
