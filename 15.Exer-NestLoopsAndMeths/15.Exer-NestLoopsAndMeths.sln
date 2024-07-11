@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.VowelsCount", "06.Vowels
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MultiplicationSign", "08.MultiplicationSign\08.MultiplicationSign.csproj", "{B0EF5955-5063-484F-B5F8-67BF5E17B1AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FactorialDivision", "07.FactorialDivision\07.FactorialDivision.csproj", "{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.FactorialDivision", "07.FactorialDivision\07.FactorialDivision.csproj", "{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PasswordValidator", "09.PasswordValidator\09.PasswordValidator.csproj", "{07481D66-A854-4D71-99EE-B846AEF66A7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27ACADF8-CE0E-419B-8C0D-A11747B0BB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07481D66-A854-4D71-99EE-B846AEF66A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07481D66-A854-4D71-99EE-B846AEF66A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07481D66-A854-4D71-99EE-B846AEF66A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07481D66-A854-4D71-99EE-B846AEF66A7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
