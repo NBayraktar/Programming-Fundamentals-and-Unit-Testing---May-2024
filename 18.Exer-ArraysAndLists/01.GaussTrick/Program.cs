@@ -11,9 +11,9 @@
                 .ToArray();
             // Sum all numbers in a list in the following order:first + last, first + 1 + last - 1, first + 2 + last - 2, … first + n, last – n
             List<int>output = new List<int>();
-            int iterations = numbers.Length;
+            int iterations = numbers.Length / 2;
             for (int i = 0; i < iterations; i++) {
-                int currentNum = numbers[i] + numbers.Length - 1 - i;
+                int currentNum = numbers[i] + numbers[numbers.Length - 1 - i];
                 output.Add(currentNum);
             }
             if (numbers.Length % 2 != 0) { 

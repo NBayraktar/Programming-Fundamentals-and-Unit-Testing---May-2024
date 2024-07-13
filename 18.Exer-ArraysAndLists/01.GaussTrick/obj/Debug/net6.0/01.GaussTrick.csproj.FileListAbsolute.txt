@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\refint\01.GaussTrick.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\01.GaussTrick\obj\Debug\net6.0\ref\01.GaussTrick.dll

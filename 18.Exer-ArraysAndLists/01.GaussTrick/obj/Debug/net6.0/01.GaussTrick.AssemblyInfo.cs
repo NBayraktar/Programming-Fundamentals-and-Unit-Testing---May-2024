@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.GaussTrick")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e411bd3bc2bae8852fa9e362274c1caed3b98205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39ca12e02243a79810405c7617500b28cdf4efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.GaussTrick")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.GaussTrick")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
