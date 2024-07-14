@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\18.Exer-ArraysAndLists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E030E6A-62DC-4B63-9339-29573D849142}|01.GaussTrick\\01.GaussTrick.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\18.exer-arraysandlists\\01.gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E030E6A-62DC-4B63-9339-29573D849142}|01.GaussTrick\\01.GaussTrick.csproj|solutionrelative:01.gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7436A8C1-CC54-4316-9208-0AA97C05E2E7}|02.CondenseArrayToNumber\\02.CondenseArrayToNumber.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\18.exer-arraysandlists\\02.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7436A8C1-CC54-4316-9208-0AA97C05E2E7}|02.CondenseArrayToNumber\\02.CondenseArrayToNumber.csproj|solutionrelative:02.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\18.Exer-ArraysAndLists\\01.GaussTrick\\Program.cs",
-              "RelativeDocumentMoniker": "01.GaussTrick\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\18.Exer-ArraysAndLists\\01.GaussTrick\\Program.cs",
-              "RelativeToolTip": "01.GaussTrick\\Program.cs",
-              "ViewState": "AQIAAAAAAAAANDMzMzP7vxoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\18.Exer-ArraysAndLists\\02.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\18.Exer-ArraysAndLists\\02.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "02.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T21:25:42.398Z",
+              "WhenOpened": "2024-07-14T19:56:12.234Z",
               "EditorCaption": ""
             }
           ]

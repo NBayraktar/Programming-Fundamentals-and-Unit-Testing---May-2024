@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\refint\02.CondenseArrayToNumber.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\18.Exer-ArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\ref\02.CondenseArrayToNumber.dll
