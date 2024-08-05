@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{931A0FF4-26B6-417F-B207-AC96C07C10D1}|03.PrintingTriangle\\03.PrintingTriangle.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\00.practice\\03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931A0FF4-26B6-417F-B207-AC96C07C10D1}|03.PrintingTriangle\\03.PrintingTriangle.csproj|solutionrelative:03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}|02.Grades\\02.Grades.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-fundamentals-and-unit-testing---may-2024\\00.practice\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\03.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "03.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\03.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "03.PrintingTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:27:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\02.Grades\\Program.cs",
               "RelativeDocumentMoniker": "02.Grades\\Program.cs",
               "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\02.Grades\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-and-Unit-Testing---May-2024\\00.Practice\\Exercise\\Program.cs",
               "RelativeDocumentMoniker": "Exercise\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "Exercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:03:59.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:03:59.858Z"
             }
           ]
         }

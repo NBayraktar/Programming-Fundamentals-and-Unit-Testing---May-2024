@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SignOfIntNums", "Exercise\01.SignOfIntNums.csproj", "{2C059BC9-AD63-4A6C-A313-580423C3136D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Grades", "02.Grades\02.Grades.csproj", "{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Grades", "02.Grades\02.Grades.csproj", "{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrintingTriangle", "03.PrintingTriangle\03.PrintingTriangle.csproj", "{931A0FF4-26B6-417F-B207-AC96C07C10D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D62EFC1D-C600-4CCA-91D4-5688A0DF0613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931A0FF4-26B6-417F-B207-AC96C07C10D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931A0FF4-26B6-417F-B207-AC96C07C10D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931A0FF4-26B6-417F-B207-AC96C07C10D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931A0FF4-26B6-417F-B207-AC96C07C10D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
