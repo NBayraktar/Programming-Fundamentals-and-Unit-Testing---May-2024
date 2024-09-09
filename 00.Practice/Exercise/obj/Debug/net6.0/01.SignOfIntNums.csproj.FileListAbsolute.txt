@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\bin\Debug\net6.0\01.SignOfIntNums.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\bin\Debug\net6.0\01.SignOfIntNums.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\bin\Debug\net6.0\01.SignOfIntNums.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\bin\Debug\net6.0\01.SignOfIntNums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\bin\Debug\net6.0\01.SignOfIntNums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\refint\01.SignOfIntNums.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\01.SignOfIntNums.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Fundamentals-and-Unit-Testing---May-2024\00.Practice\Exercise\obj\Debug\net6.0\ref\01.SignOfIntNums.dll

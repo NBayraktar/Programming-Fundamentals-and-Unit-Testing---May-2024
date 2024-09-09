@@ -7,30 +7,26 @@
             // Read an integer number N from the console
             int number = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= number; i++)
+            for (int row = 1; row <= number; row++)
             {
-                for (int j = 1; j <= i; j++)
+                for (int col = 1; col <= row; col++)
                 {
-                    Console.Write($"{j} ");
-                    if (j == number)
-                    {
-                        PrintingTriangle(number);
-                    }
+                    Console.Write($"{col} ");
                 }
                 Console.WriteLine();
             }
+            PrintingTriangle(number);
+        }
 
-            static void PrintingTriangle(int number)
+        static void PrintingTriangle(int num)
+        {
+            for (int row = num - 1; row >= 1; row--)
             {
-                Console.WriteLine();
-                for (int i = number - 1; i > 0; i--)
+                for (int col = 1; col <= row; col++)
                 {
-                    for (int j = 1; j <= i; j++)
-                    {
-                        Console.Write($"{j} ");
-                    }
-                    Console.WriteLine();
+                    Console.Write($"{col} ");
                 }
+                Console.WriteLine();
             }
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.SignOfIntNums")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9616aecfdb39f41c503bacf99d1ad427687837a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b9c72e91d15c1e9c93b0bbaab3c4dddf2549d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.SignOfIntNums")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.SignOfIntNums")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
